@@ -1,4 +1,4 @@
-### Hi there!👋 I'm Lucas de Souza! 😉
+### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="auto" alt="hi-there"> I'm Lucas de Souza! 😉
 
 - 🔭 I’m currently working as a Full Stack Web Developer 
 - 🌱 I’m currently learning CodeIgniter, JavaScript, Laravel, MySQL, Node Js, PHP, Vue Js.
@@ -28,6 +28,7 @@
 
 ##
 <div align="center">
-  <a href="https://www.instagram.com/lucasdesouza29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="mailto:lucasdesouza.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/lucasdesouza29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-ti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
