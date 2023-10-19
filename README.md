@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="auto" alt="hi-there"> I'm Lucas de Souza! 😉
 
-- 🔭 I’m currently working as a Full Stack Web Developer 
+- 🔭 I’m currently working as a Full Stack Developer 
 - 🌱 I’m currently learning CodeIgniter, JavaScript, Laravel, MySQL, Node Js, PHP, Vue Js.
 
 <div align="center">
