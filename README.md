@@ -14,8 +14,8 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
     <img align="center" alt="Lucas-De-Souza-JavaScript height="30" width="50"                    
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-    <img align="center" alt="Lucas-De-Souza-Laravel height="30" width="50" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+    <img align="center" alt="Lucas-De-Souza-Laravel" height="50" width="65"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="Lucas-De-Souza-MySQL height="30" width="70" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Lucas-De-Souza-NodeJS height="30" width="70" 
