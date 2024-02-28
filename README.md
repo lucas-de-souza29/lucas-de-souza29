@@ -18,6 +18,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="Lucas-De-Souza-MySQL height="30" width="70" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Lucas-De-Souza-PostgreSQL height="30" width="70" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img align="center" alt="Lucas-De-Souza-NodeJS height="30" width="70" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="center" alt="Lucas-De-Souza-PHP" height="50" width="auto" 
