@@ -25,7 +25,7 @@
     <img align="center" alt="Lucas-De-Souza-PHP" height="50" width="auto" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Lucas-De-Souza-ReactJS" height="50" width="auto" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="center" alt="Lucas-De-Souza-VueJS" height="50" width="auto" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
