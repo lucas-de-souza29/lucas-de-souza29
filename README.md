@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="auto" alt="hi-there"> I'm Lucas de Souza! 😉
 
 - 🔭 I’m currently working as a Full Stack Developer 
-- 🌱 I’m currently learning CodeIgniter, JavaScript, Laravel, MySQL, PostgreSQL, Node Js, PHP, React Js and Vue Js.
+- 🌱 I’m currently learning CodeIgniter, Git, JavaScript, Laravel, MySQL, PostgreSQL, Node Js, PHP, React Js and Vue Js.
 
 <div align="center">
     <a href="https://github.com/lucas-de-souza29">
@@ -12,6 +12,8 @@
 <div align="center" style="display: inline-block"><br>
     <img align="center" alt="Lucas-De-Souza-CodeIgniter" height="60" width="7%"       
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+    <img align="center" alt="Lucas-De-Souza-Git height="30" width="65" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /> 
     <img align="center" alt="Lucas-De-Souza-JavaScript height="30" width="50"                    
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
     <img align="center" alt="Lucas-De-Souza-Laravel" height="50" width="65"
