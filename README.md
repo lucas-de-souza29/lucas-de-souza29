@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" style="display: inline-block"><br>
-    <img align="center" alt="Lucas-De-Souza-CodeIgniter" height="60" width="7%"       
+    <img align="center" alt="Lucas-De-Souza-CodeIgniter" height="60" width="70"       
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
     <img align="center" alt="Lucas-De-Souza-Git height="30" width="65" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /> 
