@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="auto" alt="hi-there"> I'm Lucas de Souza! 😉
 
 - 🔭 I’m currently working as a Full Stack Developer 
-- 🌱 I’m currently learning Angular Js, Git, Java, JavaScript, MySQL, Node Js, Oracle SQL Developer, PostgreSQL, Python, Spring Boot.
+- 🌱 I’m currently learning Angular Js, Docker, Git, Java, JavaScript, MySQL, Node Js, Oracle SQL Developer, PostgreSQL, Python, Spring Boot.
 
 <div align="center">
     <a href="https://github.com/lucas-de-souza29">
@@ -11,6 +11,7 @@
 
 <div align="center" style="display: inline-block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
